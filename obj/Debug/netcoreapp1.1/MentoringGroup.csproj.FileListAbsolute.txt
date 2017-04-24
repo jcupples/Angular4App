@@ -1,0 +1,9 @@
+C:\Users\Jonathan\Source\Repos\Mentoring Group\bin\Debug\netcoreapp1.1\MentoringGroup.deps.json
+C:\Users\Jonathan\Source\Repos\Mentoring Group\bin\Debug\netcoreapp1.1\MentoringGroup.runtimeconfig.json
+C:\Users\Jonathan\Source\Repos\Mentoring Group\bin\Debug\netcoreapp1.1\MentoringGroup.runtimeconfig.dev.json
+C:\Users\Jonathan\Source\Repos\Mentoring Group\bin\Debug\netcoreapp1.1\MentoringGroup.dll
+C:\Users\Jonathan\Source\Repos\Mentoring Group\bin\Debug\netcoreapp1.1\MentoringGroup.pdb
+C:\Users\Jonathan\Source\Repos\Mentoring Group\obj\Debug\netcoreapp1.1\MentoringGroup.AssemblyInfo.cs
+C:\Users\Jonathan\Source\Repos\Mentoring Group\obj\Debug\netcoreapp1.1\MentoringGroup.dll
+C:\Users\Jonathan\Source\Repos\Mentoring Group\obj\Debug\netcoreapp1.1\MentoringGroup.pdb
+C:\Users\Jonathan\Source\Repos\Mentoring Group\obj\Debug\netcoreapp1.1\MentoringGroup.csprojResolveAssemblyReference.cache

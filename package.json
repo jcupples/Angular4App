@@ -1,0 +1,37 @@
+{
+  "name": "MentoringGroup",
+  "version": "0.0.0",
+  "description": "Group Project",
+  "license": "MIT",
+  "repository": "Git",
+  "dependencies": {
+    "@angular/common": "4.0.0",
+    "@angular/compiler": "4.0.0",
+    "@angular/core": "4.0.0",
+    "@angular/forms": "4.0.0",
+    "@angular/http": "4.0.0",
+    "@angular/platform-browser": "4.0.0",
+    "@angular/platform-browser-dynamic": "4.0.0",
+    "@angular/platform-server": "4.0.0",
+    "@angular/animations": "4.0.0",
+    "@angular/router": "4.0.0",
+    "@types/node": "6.0.60",
+    "bootstrap": "3.3.7",
+    "jquery": "3.2.1",
+    "rxjs": "5.1.0",
+    "reflect-metadata": "0.1.10",
+    "zone.js": "0.8.4",
+    "gulp": "3.9.1",
+    "systemjs": "0.20.12"
+  },
+  "devDependencies": {
+    "karma": "1.6.0",
+    "karma-chrome-launcher": "2.0.0",
+    "karma-cli": "1.0.1",
+    "typescript": "2.2.2",
+    "gulp-typescript": "3.1.6",
+    "merge2": "1.0.3",
+    "gulp-sass": "3.1.0",
+    "del": "2.2.2"
+  }
+}

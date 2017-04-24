@@ -1,0 +1,21 @@
+﻿
+<div class="container">
+    <h1>My {{ getPageTitle() }} page </h1>
+    <p>My name is {{ coderObject() }} and I am {{ age }} years old.</p>
+    <br />
+    <h4>This is a demonstration of Angular concepts written with the help of TypeScript.</h4>
+    <br />
+    <p>Please Enter your name so I know who you are!</p>
+    <input type="text" class="form-control width" [(ngModel)]="userName"/>
+    <p class="color">{{ userName }}</p>
+    <button class="btn btn-primary" (click)="addName()">Add Name!</button>
+
+    <!---<p *ngIf="nameCreated">The last name entered was {{ user }}</p>--->
+
+    <p *ngFor="let user of userInput"> {{user}}</p>
+    <br />
+    <br />
+    <button class="btn btn-primary" (click)="onButtonClick()">Click Me!</button>
+    <p>The button has been clicked {{ numClicks }} times.</p>
+</div>
+<!---well, try to put a picture of yourself and style the page to give yourself an introduction-->
